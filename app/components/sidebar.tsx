@@ -120,7 +120,7 @@ export function SideBar(props: { className?: string }) {
           ChatGPT Next
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+          机械室内部使用，请勿传播。
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
